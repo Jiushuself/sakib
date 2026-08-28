@@ -1,5 +1,8 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+
+# 1 https://vitepress.dev/reference/default-theme-home-page
+
+
 layout: home
 
 hero:
@@ -11,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: 🚩进站必读
-      link: /更多/进站必读     
+      link: /更多/进站必读
 
 features:
   - title: 💡 <br/> <br/>精准定位，高效备考
